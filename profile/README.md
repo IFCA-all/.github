@@ -1,4 +1,4 @@
-<img width="300" align="left" src="" alt="IFCA Advanced Computing and e-Science Group" />
+<img width="300" align="left" src="https://raw.githubusercontent.com/IFCA-all/.github/main/profile/logo.png" alt="IFCA logo" />
 
 Welcome to the GitHub organization of the
 [Instituto de Física de Cantabria](https://ifca.unican.es)
