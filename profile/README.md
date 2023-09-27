@@ -8,5 +8,5 @@ Welcome to the GitHub organization of the
 Below you can find links to the IFCA research groups that have a public GitHub
 organization:
 
-* [Advanced Computing and e-Science](https://github.com/IFCA-Computing/).
+* [Advanced Computing and e-Science](https://github.com/IFCA-Advanced-Computing/).
 * [Climate and Data Science](https://github.com/SantanderMetGroup/).
