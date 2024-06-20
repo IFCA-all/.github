@@ -10,3 +10,4 @@ organization:
 
 * [Advanced Computing and e-Science](https://github.com/IFCA-Advanced-Computing/).
 * [Climate and Data Science](https://github.com/SantanderMetGroup/).
+* [Observational Cosmology and Instrumentation](https://github.com/IFCA-Cosmology-Group)
